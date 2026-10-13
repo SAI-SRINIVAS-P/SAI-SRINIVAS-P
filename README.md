@@ -235,101 +235,149 @@
 
 # 🚀 Featured Projects
 
-### 🟣 .NET Projects (2)
+## 🔬 ATLAS Research AI · Local-First Research Workspace
 
-## 🏥 CARE-MIND — AI Healthcare Platform
+**Python · FastAPI · Next.js · React · TypeScript · LangGraph · Qdrant · FastEmbed · LM Studio · Docker**
 
-**C# · .NET 10 · ASP.NET Core Web API · Entity Framework Core · SQL Server · JWT · OpenAI API · Docker · CI/CD**
+A local-first AI application for conversational chat, evidence-driven research, and private-document retrieval. It organizes research into a workflow that gathers evidence, checks gaps, and synthesizes responses while keeping model inference local through LM Studio.
 
-A portfolio-grade healthcare management platform built around secure role-based access and AI-assisted workflows.
+- 🧠 LangGraph workflow for planning, evidence gathering, critique, and synthesis
+- 📚 RAG pipeline for PDF, TXT, and Markdown files using FastEmbed and Qdrant
+- 🌐 Optional web research with source-aware answers
+- 🧪 FastAPI endpoints, automated checks, and Docker Compose support
 
-- 🔐 **3 user roles:** Admin, Doctor, Patient with JWT-secured access
-- 🩺 **7+ core capabilities:** patient management, doctor management, appointments, medical records, medications, AI assistance, and AI-powered visit preparation
-- 🧱 **3-layer architecture:** API, Domain, Infrastructure
-- 🧪 **10+ production-oriented capabilities:** global exception handling, health checks, audit logging, database migrations, automated testing, Docker Compose, and CI integration
-
-🔗 **[Repository →](https://github.com/Sai-Developer-1405/CARE-MIND-AI-HEALTHCARE-PLATFORM)**
+🔗 [Repository →](https://github.com/Sai-Srinivas-P/ATLAS-RESEARCH-AI)
 
 ---
 
-## 🎓 Student Management System
+## 🛡️ Sentinel Fraud Intelligence · Transaction Risk Prototype
+
+**C# · .NET 10 · ASP.NET Core Web API · ML.NET · FastTree · EF Core · SQL Server · React · TypeScript · Docker**
+
+A full-stack fraud-risk research prototype that brings model training, transaction scoring, analyst review, and model-health monitoring into one dashboard.
+
+- 🤖 Trains and evaluates an ML.NET FastTree binary classifier
+- 📊 Scores transactions and supports analyst review of flagged cases
+- 🧭 Includes model registry/version metadata, threshold controls, and feature-shift screening
+- 🧪 Dockerized API and frontend with automated tests and CI checks
+
+🔗 [Repository →](https://github.com/SAI-SRINIVAS-P/SENTINEL-FRAUD-INTELLIGENCE)
+
+---
+
+## 🚘 AADS 4.2 · Automotive AI Security Platform
+
+**Python · FastAPI · Streamlit · Machine Learning · Temporal Features · Docker**
+
+A vehicle-telemetry ML workbench for exploring CAN-style data, engineering time-aware features, comparing models, scoring unusual records, and reviewing alerts.
+
+- 📈 Compares temporal models against a payload-only baseline
+- ⚙️ Provides record/batch inference APIs, health endpoints, alert review, and metrics
+- 🧪 Includes reproducible experiments, pytest checks, GitHub Actions, and optional Docker Compose
+
+🔗 [Repository →](https://github.com/SAI-SRINIVAS-P/AADS-4.2-AUTOMOTIVE-AI-SECURITY-PLATFORM)
+
+---
+
+## 🎧 Smart Customer Support System · AI-Assisted Workflow
+
+**Java · Spring Boot · Spring AI · React · TypeScript · MySQL · LM Studio**
+
+A support-workflow application that connects customer questions to Java services, demo order data, policy guidance, and a locally served language model.
+
+- 💬 Customer-support interface with order-aware assistance
+- 🗃️ Support and order workflows backed by MySQL
+- 🧩 Policy guidance and automation flows, with local-model integration through LM Studio
+- 🛠️ Includes a documented local setup and operational troubleshooting guide
+
+🔗 [Repository →](https://github.com/SAI-SRINIVAS-P/SMART-CUSTOMER-SUPPORT-SYSTEM)
+
+---
+
+## 🎫 ORBITDESK · Help Desk and Ticketing System
+
+**C# · .NET 10 · ASP.NET Core Web API · SQL Server · React · TypeScript · Docker**
+
+A full-stack support workspace for creating, assigning, tracking, and resolving tickets, with role-aware workflows for requesters, agents, and administrators.
+
+- 📨 Ticket creation, status/priority filtering, assignment, comments, and history
+- 🔐 Role-aware application workflows
+- 📧 Optional SMTP notifications through MailKit and a notification outbox
+- 🐳 Docker Compose setup for the frontend, API, and database
+
+🔗 [Repository →](https://github.com/SAI-SRINIVAS-P/ORBITDESK-HELP-DESK-AND-TICKETING-SYSTEM)
+
+---
+
+## 🎬 Digital Movie Ticket Portal · Full-Stack Booking
+
+**Java 21 · Spring Boot · Spring Security · JWT · Spring Data JPA · MySQL · React · TypeScript · Docker**
+
+A cinema booking application focused on backend-enforced seat availability. Transactional row locks, expiring holds, and database constraints help prevent competing requests from booking the same seat.
+
+- 🎞️ Movie catalogue and showtime browsing
+- 💺 Seat selection with expiring holds and booking confirmation
+- 🔐 JWT-based authentication and user-specific booking history
+- 🧪 Flyway migrations, OpenAPI/Swagger, automated tests, and GitHub Actions CI
+
+🔗 [Repository →](https://github.com/SAI-SRINIVAS-P/DIGITAL-MOVIE-TICKET-PORTAL)
+
+---
+
+## 🏥 Care Mind AI · Healthcare Platform
+
+**C# · .NET 10 · ASP.NET Core Web API · EF Core · SQL Server · JWT · OpenAI API · Docker**
+
+An AI-assisted healthcare management API organized around role-based access and backend workflows for patient, doctor, appointment, medical-record, and medication management.
+
+- 🔐 Admin, Doctor, and Patient roles with JWT-secured access
+- 🩺 Healthcare workflow endpoints and AI-assisted visit preparation
+- 🧱 API, Domain, and Infrastructure layers
+- 🧪 Exception handling, health checks, audit logging, migrations, automated tests, and CI integration
+
+🔗 [Repository →](https://github.com/Sai-Developer-1405/CARE-MIND-AI-HEALTHCARE-PLATFORM)
+
+---
+
+## 🎓 EduPortfolio Vision Hub · Academic Portfolio Platform
+
+**Java · Spring Boot · Spring Security · Hibernate · MySQL · JSP/JSTL · React · Maven**
+
+A role-based academic portfolio platform for student project tracking and faculty workflows.
+
+- 🔐 Authentication and role-based authorization
+- 🗂️ CRUD workflows and project progress tracking
+- 🧭 Responsive interfaces for student, faculty, and admin use
+
+🔗 [Repository →](https://github.com/Sai-Developer-1405/EDUPORTFOLIO-VISION-HUB)
+
+---
+
+## 🚗 Automotive Anomaly Detection · Machine Learning
+
+**Python · scikit-learn · Pandas · NumPy · KNN · Decision Tree · SVM**
+
+A machine-learning project for exploring anomalies in automotive CAN-bus data, comparing classifiers, and evaluating model results.
+
+- 🤖 Compares KNN, Decision Tree, and SVM
+- 🧬 Uses feature-selection experiments and train/test evaluation
+- 📊 Reviews classification metrics and confusion-matrix results
+
+🔗 [Repository →](https://github.com/Sai-Developer-1405/AUTOMOTIVE-ANOMALY-DETECTION-SYSTEM)
+
+---
+
+## 🎓 Student Management System · Desktop Application
 
 **C# · .NET Framework · Windows Forms · MySQL**
 
-A desktop application for managing academic records through a structured Windows-based workflow.
+A Windows desktop application for managing student records, courses, registrations, and academic performance.
 
-- 👨‍🎓 **4 core areas:** student information, course management, registration, and academic performance
-- 🧩 **10+ forms/components:** student management, courses, registration, dashboards, printing, and database operations
-- 🗄️ **Complete CRUD:** persistent MySQL storage with reusable C# classes for connectivity, student records, course information, and reporting
+- 👨‍🎓 Student and course record management with CRUD operations
+- 🧾 Registration, reporting, and academic record workflows
+- 🗄️ Database-backed persistence through reusable C# classes
 
-🔗 **[Repository →](https://github.com/Sai-Developer-1405/STUDENT_MANAGEMENT_SYSTEM)**
-
----
-
-### ☕ Java Projects (2)
-
-## 🎓 EduPortfolio Vision Hub
-
-**Spring Boot · Spring Security · Hibernate · MySQL · JSP · JSTL · HTML · CSS · Bootstrap · React · Maven**
-
-A role-based student portfolio platform focused on secure access, project tracking, and faster academic workflows.
-
-- ⚡ **40% faster data access** through backend optimizations
-- 🔐 Secure authentication, role-based authorization, CRUD operations, and real-time project progress tracking
-- 👩‍🏫 **50% lower faculty manual-review workload** based on the project results reported in the resume
-- 🧭 **30% lower navigation time** across key workflows with responsive UI and optional React integration
-
-🔗 **[Repository →](https://github.com/Sai-Developer-1405/EDUPORTFOLIO-VISION-HUB)**
-
----
-
-## 🎬 Digital Movie Ticket Portal
-
-**Java · Spring Boot · Spring MVC / REST · Spring Data JPA · H2 · ReactJS · HTML · CSS · Bootstrap**
-
-A full-stack movie ticket booking application that combines a Spring Boot backend with a responsive React frontend.
-
-- 🎥 Browse active movies and current-day shows with dynamic show status
-- 🎫 Select available seats and book tickets with validation against running or completed shows
-- 🗄️ Uses **H2 in-memory database** with a straightforward path to relational database configuration
-- 🧱 Clear **Controller → Service → Repository → UI** architecture
-- 📦 Preloaded sample data for movies, theatres, shows, and seat layouts for quick local execution
-
-🔗 **[Repository →](https://github.com/Sai-Developer-1405/DIGITAL-MOVIE-TICKET-PORTAL)**
-
----
-
-### 🤖 AI Projects (2)
-
-## 🚗 Automotive Anomaly Detection System
-
-**Python · Scikit-learn · Pandas · NumPy · Matplotlib · Tkinter · KNN · Decision Tree · SVM · Genetic Algorithm · CAN Bus Data**
-
-A machine-learning workflow for detecting anomalies in automotive CAN bus data with model comparison and feature selection.
-
-- 📦 **14,000 CAN bus records** across **7 key attributes**
-- 🧪 **80:20 train-test split** for model evaluation
-- 🤖 Compared **3 ML algorithms:** KNN, Decision Tree, and SVM
-- 🧬 Applied **Genetic Algorithm-based feature selection**
-- 📈 Evaluated results using **accuracy, precision, recall/miss-rate, and confusion-matrix analysis** through a custom GUI for dataset processing, model execution, and visualization
-
-🔗 **[Repository →](https://github.com/Sai-Developer-1405/AUTOMOTIVE-ANOMALY-DETECTION-SYSTEM)**
-
----
-
-## 🔬 ATLAS RESEARCH AI — Local-First Research Workspace
-
-**Python · FastAPI · Next.js · React · TypeScript · LangGraph · LM Studio · Qdrant · FastEmbed · Docker**
-
-A local-first AI workspace that brings conversational chat, evidence-driven research, and private-document retrieval into one application. It uses models served through LM Studio, with optional web search and a private document knowledge base.
-
-- 🧠 **Structured research pipeline:** plans questions, gathers web and document evidence, critiques evidence gaps, synthesizes an answer, and checks the result with LangGraph
-- 📚 **Private-document RAG:** ingests PDF, TXT, and Markdown files, creates embeddings with FastEmbed, and retrieves relevant passages from Qdrant
-- 🌐 **Evidence-aware answers:** combines available web results and private-document matches, returning source details with research reports
-- 🏠 **Local-first model inference:** connects to locally served models through LM Studio’s OpenAI-compatible API
-- 🧪 **API and quality checks:** FastAPI endpoints for chat, research, document management, and health checks, with automated tests and Docker Compose support
-
-🔗 **[Repository →](https://github.com/Sai-Srinivas-P/ATLAS-RESEARCH-AI)**
+🔗 [Repository →](https://github.com/Sai-Developer-1405/STUDENT_MANAGEMENT_SYSTEM)
 
 ---
 
