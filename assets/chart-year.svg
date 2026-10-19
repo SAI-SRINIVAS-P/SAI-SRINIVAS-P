@@ -1,10 +1,10 @@
 <svg width="920" height="430" viewBox="0 0 920 430" xmlns="http://www.w3.org/2000/svg">
 <rect x="0.5" y="0.5" width="919" height="429" rx="14" fill="#0B0E11" stroke="#1B2130"/>
 <text x="26" y="34" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#EAECEF">SAI-SRINIVAS-P · COMMITS<tspan fill="#6E7887" font-weight="500" letter-spacing="0.6">  1W · LAST 52W</tspan></text>
-<text x="26" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="32" font-weight="800" fill="#F6465D" letter-spacing="-0.5">107</text>
-<rect x="100" y="50" width="109" height="24" rx="6" fill="#F6465D" opacity="0.14"/>
-<text x="154" y="66" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#F6465D">-25 (-18.9%)</text>
-<text x="844" y="34" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="0.3"><tspan fill="#6E7887">O</tspan> <tspan fill="#F6465D">132</tspan> <tspan fill="#6E7887">H</tspan> <tspan fill="#F6465D">132</tspan> <tspan fill="#6E7887">L</tspan> <tspan fill="#F6465D">107</tspan> <tspan fill="#6E7887">C</tspan> <tspan fill="#F6465D">107</tspan></text>
+<text x="26" y="70" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="32" font-weight="800" fill="#F6465D" letter-spacing="-0.5">0</text>
+<rect x="60" y="50" width="124" height="24" rx="6" fill="#F6465D" opacity="0.14"/>
+<text x="122" y="66" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#F6465D">-107 (-100.0%)</text>
+<text x="844" y="34" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="0.3"><tspan fill="#6E7887">O</tspan> <tspan fill="#F6465D">107</tspan> <tspan fill="#6E7887">H</tspan> <tspan fill="#F6465D">107</tspan> <tspan fill="#6E7887">L</tspan> <tspan fill="#F6465D">0</tspan> <tspan fill="#6E7887">C</tspan> <tspan fill="#F6465D">0</tspan></text>
 <text x="844" y="54" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="0.3"><tspan fill="#6E7887">YTD</tspan> <tspan fill="#EAECEF">291</tspan>  <tspan fill="#6E7887">CANDLES</tspan> <tspan fill="#EAECEF">52</tspan></text>
 <line x1="18" y1="82" x2="902" y2="82" stroke="#1B2130" stroke-width="1"/>
 <text x="437.0" y="222.0" text-anchor="middle" font-family="ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size="38" font-weight="800" letter-spacing="6" fill="#EAECEF" opacity="0.035">SAI-SRINIVAS-P</text>
@@ -17,9 +17,9 @@
 <line x1="18" y1="88.0" x2="856" y2="88.0" stroke="#161C26" stroke-width="1"/>
 <text x="866" y="91.5" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#6E7887">152</text>
 <line x1="856" y1="82" x2="856" y2="400" stroke="#242B38" stroke-width="1"/>
-<line x1="18" y1="160.0" x2="856" y2="160.0" stroke="#F6465D" stroke-width="1" stroke-dasharray="2 4" opacity="0.55"/>
-<rect x="860" y="150.0" width="50" height="20" rx="5" fill="#F6465D"/>
-<text x="885.0" y="163.8" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" font-weight="800" fill="#0B0E11">107</text>
+<line x1="18" y1="332.0" x2="856" y2="332.0" stroke="#F6465D" stroke-width="1" stroke-dasharray="2 4" opacity="0.55"/>
+<rect x="860" y="322.0" width="50" height="20" rx="5" fill="#F6465D"/>
+<text x="885.0" y="335.8" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" font-weight="800" fill="#0B0E11">0</text>
 <line x1="26.1" y1="332.0" x2="26.1" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
 <rect x="21.2" y="332.0" width="9.7" height="1.4" rx="1" fill="#0ECB81"/>
 <line x1="42.2" y1="332.0" x2="42.2" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
@@ -60,12 +60,12 @@
 <rect x="311.3" y="332.0" width="9.7" height="1.4" rx="1" fill="#0ECB81"/>
 <line x1="332.3" y1="332.0" x2="332.3" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
 <rect x="327.4" y="332.0" width="9.7" height="1.4" rx="1" fill="#0ECB81"/>
-<line x1="348.4" y1="332.0" x2="348.4" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
-<rect x="343.5" y="332.0" width="9.7" height="1.4" rx="1" fill="#0ECB81"/>
-<line x1="364.5" y1="325.6" x2="364.5" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
-<rect x="359.6" y="325.6" width="9.7" height="6.4" rx="1" fill="#0ECB81"/>
-<line x1="380.6" y1="325.6" x2="380.6" y2="332.0" stroke="#F6465D" stroke-width="1"/>
-<rect x="375.8" y="325.6" width="9.7" height="6.4" rx="1" fill="#F6465D"/>
+<line x1="348.4" y1="325.6" x2="348.4" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
+<rect x="343.5" y="325.6" width="9.7" height="6.4" rx="1" fill="#0ECB81"/>
+<line x1="364.5" y1="325.6" x2="364.5" y2="332.0" stroke="#F6465D" stroke-width="1"/>
+<rect x="359.6" y="325.6" width="9.7" height="6.4" rx="1" fill="#F6465D"/>
+<line x1="380.6" y1="332.0" x2="380.6" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
+<rect x="375.8" y="332.0" width="9.7" height="1.4" rx="1" fill="#0ECB81"/>
 <line x1="396.7" y1="332.0" x2="396.7" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
 <rect x="391.9" y="332.0" width="9.7" height="1.4" rx="1" fill="#0ECB81"/>
 <line x1="412.8" y1="332.0" x2="412.8" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
@@ -116,15 +116,15 @@
 <rect x="762.5" y="332.0" width="9.7" height="1.4" rx="1" fill="#0ECB81"/>
 <line x1="783.5" y1="332.0" x2="783.5" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
 <rect x="778.6" y="332.0" width="9.7" height="1.4" rx="1" fill="#0ECB81"/>
-<line x1="799.6" y1="332.0" x2="799.6" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
-<rect x="794.8" y="332.0" width="9.7" height="1.4" rx="1" fill="#0ECB81"/>
-<line x1="815.7" y1="254.8" x2="815.7" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
-<rect x="810.9" y="254.8" width="9.7" height="77.2" rx="1" fill="#0ECB81"/>
-<line x1="831.8" y1="119.8" x2="831.8" y2="254.8" stroke="#0ECB81" stroke-width="1"/>
-<rect x="827.0" y="119.8" width="9.7" height="135.0" rx="1" fill="#0ECB81"/>
-<line x1="847.9" y1="119.8" x2="847.9" y2="160.0" stroke="#F6465D" stroke-width="1"/>
-<rect x="843.1" y="119.8" width="9.7" height="40.2" rx="1" fill="#F6465D"/>
-<text x="26" y="355" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="0.5" fill="#6E7887">VOL <tspan fill="#F6465D">107</tspan></text>
+<line x1="799.6" y1="254.8" x2="799.6" y2="332.0" stroke="#0ECB81" stroke-width="1"/>
+<rect x="794.8" y="254.8" width="9.7" height="77.2" rx="1" fill="#0ECB81"/>
+<line x1="815.7" y1="119.8" x2="815.7" y2="254.8" stroke="#0ECB81" stroke-width="1"/>
+<rect x="810.9" y="119.8" width="9.7" height="135.0" rx="1" fill="#0ECB81"/>
+<line x1="831.8" y1="119.8" x2="831.8" y2="160.0" stroke="#F6465D" stroke-width="1"/>
+<rect x="827.0" y="119.8" width="9.7" height="40.2" rx="1" fill="#F6465D"/>
+<line x1="847.9" y1="160.0" x2="847.9" y2="332.0" stroke="#F6465D" stroke-width="1"/>
+<rect x="843.1" y="160.0" width="9.7" height="172.0" rx="1" fill="#F6465D"/>
+<text x="26" y="355" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="0.5" fill="#6E7887">VOL <tspan fill="#F6465D">0</tspan></text>
 <rect x="21.2" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
 <rect x="37.3" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
 <rect x="53.5" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
@@ -145,9 +145,9 @@
 <rect x="295.2" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
 <rect x="311.3" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
 <rect x="327.4" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
-<rect x="343.5" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
-<rect x="359.6" y="398.8" width="9.7" height="1.2" rx="1" fill="#0ECB81" opacity="0.42"/>
-<rect x="375.8" y="400.0" width="9.7" height="1.0" rx="1" fill="#F6465D" opacity="0.42"/>
+<rect x="343.5" y="398.8" width="9.7" height="1.2" rx="1" fill="#0ECB81" opacity="0.42"/>
+<rect x="359.6" y="400.0" width="9.7" height="1.0" rx="1" fill="#F6465D" opacity="0.42"/>
+<rect x="375.8" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
 <rect x="391.9" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
 <rect x="408.0" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
 <rect x="424.1" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
@@ -173,20 +173,20 @@
 <rect x="746.4" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
 <rect x="762.5" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
 <rect x="778.6" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
-<rect x="794.8" y="400.0" width="9.7" height="1.0" rx="1" fill="#0ECB81" opacity="0.42"/>
-<rect x="810.9" y="385.5" width="9.7" height="14.5" rx="1" fill="#0ECB81" opacity="0.42"/>
-<rect x="827.0" y="360.0" width="9.7" height="40.0" rx="1" fill="#0ECB81" opacity="0.42"/>
-<rect x="843.1" y="367.6" width="9.7" height="32.4" rx="1" fill="#F6465D" opacity="0.42"/>
-<text x="58.3" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">NOV</text>
-<text x="122.8" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">DEC</text>
-<text x="203.3" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">JAN</text>
-<text x="267.8" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">FEB</text>
-<text x="332.3" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">MAR</text>
-<text x="412.8" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">APR</text>
-<text x="477.3" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">MAY</text>
-<text x="541.8" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">JUN</text>
-<text x="622.3" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">JUL</text>
-<text x="686.8" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">AUG</text>
-<text x="767.4" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">SEP</text>
-<text x="831.8" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">OCT</text>
+<rect x="794.8" y="385.5" width="9.7" height="14.5" rx="1" fill="#0ECB81" opacity="0.42"/>
+<rect x="810.9" y="360.0" width="9.7" height="40.0" rx="1" fill="#0ECB81" opacity="0.42"/>
+<rect x="827.0" y="367.6" width="9.7" height="32.4" rx="1" fill="#F6465D" opacity="0.42"/>
+<rect x="843.1" y="400.0" width="9.7" height="1.0" rx="1" fill="#F6465D" opacity="0.42"/>
+<text x="42.2" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">NOV</text>
+<text x="106.6" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">DEC</text>
+<text x="187.2" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">JAN</text>
+<text x="251.7" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">FEB</text>
+<text x="316.1" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">MAR</text>
+<text x="396.7" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">APR</text>
+<text x="461.2" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">MAY</text>
+<text x="525.6" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">JUN</text>
+<text x="606.2" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">JUL</text>
+<text x="670.7" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">AUG</text>
+<text x="751.2" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">SEP</text>
+<text x="815.7" y="418" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#6E7887">OCT</text>
 </svg>
